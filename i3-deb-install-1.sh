@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt install xorg i3 xfce4-terminal compton geany zim ranger mpv pulseaudio pavucontrol slim nitrogen htop xfce4-power-manager mumble irssi rsync curl ffmpeg 
+sudo apt install xorg i3 xfce4-terminal compton geany zim ranger mpv pulseaudio pavucontrol slim nitrogen htop xfce4-power-manager mumble irssi rsync curl ffmpeg
 
 #sudo apt -t stretch-backports install kodi minetest
 
@@ -12,4 +12,6 @@ sudo apt install xorg i3 xfce4-terminal compton geany zim ranger mpv pulseaudio 
 
 sudo reboot
 
+#test
 
+414cc3891097e8a900c6fc9c2f0497f0221b02d4
